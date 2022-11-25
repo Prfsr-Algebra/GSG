@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+.upper{
+    background-color:blueviolet;
+    font-size:1em ;
+    padding:6em ;
+}
+.lower{
+padding: 0 6em;
+}

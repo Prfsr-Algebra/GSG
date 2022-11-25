@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: auto;
+}
+.parent{
+    background-color: rgb(241, 12, 165);
+    margin: auto;
+    padding: auto;
+}
+.child{
+    padding: auto;
+    width: 50%;
+}
